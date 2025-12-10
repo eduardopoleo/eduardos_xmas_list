@@ -20,3 +20,4 @@ databases:
   - name: eduardo-xmas-list-db
     databaseName: eduardo_xmas_list_production
     user: eduardo_xmas_list
+    plan: free
