@@ -1,0 +1,29 @@
+<%= turbo_frame_tag dom_id(item) do %>
+  <article class="gift-item <%= 'claimed' if item.claimed %>" id="<%= dom_id(item) %>">
+    <div class="gift-image">
+      <img src="<%= item.image %>" alt="<%= item.title %>">
+    </div>
+    <div class="gift-info">
+      <h2 class="gift-title">
+        <a href="<%= item.link %>" target="_blank" rel="noopener noreferrer"><%= item.title %></a>
+      </h2>
+      <p class="gift-price"><%= item.price %></p>
+      <p class="gift-description">
+        <%= item.description %>
+      </p>
+      <a href="<%= item.link %>" class="gift-link" target="_blank" rel="noopener noreferrer">
+        Go to page →
+      </a>
+    </div>
+    <div class="claim-toggle-wrapper">
+      <%= button_to toggle_claim_item_path(item), 
+                    method: :patch, 
+                    class: "claim-toggle #{item.claimed ? 'claimed' : 'unclaimed'}",
+                    data: { turbo_frame: dom_id(item) },
+                    title: item.claimed ? 'Click to unclaim' : 'Click to claim' do %>
+        <%= item.claimed ? '✓' : '○' %>
+      <% end %>
+      <span class="claim-text"><%= item.claimed ? 'Click to Unclaim' : 'Click to Claim' %></span>
+    </div>
+  </article>
+<% end %>

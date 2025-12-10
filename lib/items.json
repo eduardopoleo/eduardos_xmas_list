@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Sketch Every Damn Day",
+    "link": "https://www.amazon.ca/Sketch-Every-Damn-Day-Challenges/dp/B0CCKZKFCC",
+    "image": "https://m.media-amazon.com/images/I/81q+B5J765L._SY522_.jpg",
+    "description": "A book to help you learn how to draw!",
+    "price": "$40 CAD"
+  },
+  {
+    "title": "POWKIDDY RGB30",
+    "link": "https://powkiddy.com/en-ca/products/pre-sale-powkiddy-rgb30-rk3566-handheld-game-console-built-in-wifi",
+    "image": "https://m.media-amazon.com/images/I/61nnn4d9K6L._AC_SY300_SX300_QL70_ML2_.jpg",
+    "description": "A console to load pico-8 games and play on the go.",
+    "price": "$70 USD"
+  }, 
+  {
+    "title": "Full G license",
+    "link": "https://drivetest.ca/",
+    "image": "https://tests.ca/img/licence/ontario-drivers-licence.jpg",
+    "description": "Full G license so that I do not have to start the process anew.",
+    "price": "$90 CAD"
+  },
+  {
+    "title": "Honday CR-V TrailSport 2026",
+    "link": "https://www.honda.ca/en/crv/trims?trim=trailsport_hybrid_10905&gclsrc=aw.ds&gad_source=1&gad_campaignid=129730880&gbraid=0AAAAADxNOOiXoY41_SoauqC5Hc4orPttS&gclid=Cj0KCQiArt_JBhCTARIsADQZayk3jQm2hn8v9p81FcvynH5osbC0VRQCgoO1O6olTW5qmuP6pC3PrqoaAshtEALw_wcB",
+    "image": "https://www.honda.ca/-/media/Brands/Honda/Models/CR-V/2026/04-Trims/BAP/Trail-Sport-Hybrid/AGM/MY26_CR-V_TrailSport_Hybrid_AGM_3250x2400_Desktop_BAPColourSelector_01.png?rev=4d337a94ccc446bb8e9570a084aa7e5d",
+    "description": "A car to take Gabo everywhere!!!",
+    "price": "$56,000 CAD"
+  },
+  {
+    "title": "Ridge Wallet",
+    "link": "https://www.amazon.ca/Ridge-Wallet-Men-Slim-Minimalist/dp/B0CNDZSR7L/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.-G82koLpo7HQKMAjHwHwxStANd7Fb6oLeYa7cHcIF3Qqu0gsTeSM1Tr7rZ-oBvfIZgJAylKEz5AJUBi3fFsZeAXO98vUsKU6_4O_d0O3In2aHD754W0Edq8FmAOd3vAtRu60h6qzkkwrQ3EnCEGjeafCmOC27IvMQ62OrOj9uxOSHwFfQFRY2GqivtllNzjpRD6x4Ui7ZDXmPJ6lomAhiebtTVmqpc680v6v-TvCx2cpSkd6sNk-xl9L6pUCcFWyCj6_7NQsjuoIXpqQ-jLnZLzJ08vITdtTjtjI0bkb77w.6bzPgb2GpBpWQ6HXFIWumrr4Q95_gl3GaKjT30BxxlQ&dib_tag=se&keywords=ridge%2Bwallet&qid=1765337210&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+    "image": "https://m.media-amazon.com/images/I/81Ry8Cb5yvL._AC_SX679_.jpg",
+    "description": "A new slim wallet cuz the one I have is falling apart.",
+    "price": "$95 CAD"
+  },
+  {
+    "title": "Yoga Set",
+    "link": "https://www.amazon.ca/BalanceFrom-GoYoga-7-Piece-Set-Carrying/dp/B07LFND61Q/ref=sr_1_10?dib=eyJ2IjoiMSJ9.UJT_nADHJAKkNoUtEuQV5mKEzsYbm7EIShkLRkrFo4YxIrz08-fiLxWNwfTrp0N6O7zyvEFQs3X73lHAB-EkMbJIlur-M94ZHuYNbATN-SXXYSeTlERf7Nd5TBVPgOzcju1RN4vmxRVN0vfTVUqRYy4v58ebDVmBK-LTOhHVWa1YTlVqXsRKjSD1wPfYOr_HPCqK2qwH3iVtURnwOJUgMq2K_NqgYx0V6j2JB7L_1dNwrjKSM73t4FsJ2ppj8lFz1QJPwmEqAKVVU-q99JazFMJoLvxOBzagUH9O7d9sRqw.vHrB_U6iHpYiUNfSPLquwinN58vIyiEcjHfHixdqNXo&dib_tag=se&keywords=yoga%2Bset&qid=1765335271&sr=8-10&th=1",
+    "image": "https://m.media-amazon.com/images/I/711crwg7eAL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "description": "Para estirar en las mañanas y mejorar flexibilidad y mi espalda.",
+    "price": "$90 CAD"
+  },
+  {
+    "title": "Yoga for happy back",
+    "link": "https://www.yogabody.com/happy-back/",
+    "image": "https://embed-ssl.wistia.com/deliveries/3e5de70937af3d67fb1d55b8ce92bddb.webp?image_crop_resized=960x540",
+    "description": "Para estirar en las mañanas y mejorar flexibilidad y mi espalda.",
+    "price": "$40 USD"
+  },
+   {
+    "title": "Yoga for hip openers",
+    "link": "https://www.yogabody.com/21-day-hips/",
+    "image": "https://www.yogabody.com/wp-content/uploads/2025/10/img-happy-back-bonus2.png",
+    "description": "Para tener mejor flexibilidad en las caderas.",
+    "price": "$30 USD"
+  }
+]
